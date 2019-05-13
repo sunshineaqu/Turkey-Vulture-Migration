@@ -22,15 +22,12 @@
 # 3.	Load: 
    We committed the above tables to our sqlite database.  We chose SQL for its ease of use and relational quality.  Using sqlite allowed us to easily work on the same database.   Our final tables include “vulture_detail” which lists details about each bird in the study, “migration_paths” which lists the point-in-time location recordings, and our “city_df” which lists temperatures by city in the migration paths of the vultures.  
 
-
-
-
-
-
 # Additional Movebank Information:
 1.	How to use Movebank to download data needed: [here](https://www.hawkmountain.org/science/learn-to-use-tracking-maps/page.aspx?id=4515)
 2.	Additional detail on the vulture study: [here](https://www.makeovermonday.co.uk/week4-2018/)
 3.	An interactive map of other animal tracking studies: [here](https://www.movebank.org/panel_embedded_movebank_webapp)
+
+image credit: http://www.sfzoo.org/animals/birds/turkeyvulture.htm
 
 
 
